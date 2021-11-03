@@ -1,0 +1,25 @@
+{
+  "name": "api-with-stripe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "server": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dschwan21/api-with-stripe.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dschwan21/api-with-stripe/issues"
+  },
+  "homepage": "https://github.com/dschwan21/api-with-stripe#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
