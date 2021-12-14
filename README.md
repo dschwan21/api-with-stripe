@@ -4,3 +4,4 @@
 # Source of the tutorial at: https://www.youtube.com/watch?v=GK4Pl-GmPHk&t=116s
 # The API itself will return data from:
 
+# the user can pay for API usage via stripe
